@@ -1,0 +1,20 @@
+export const quotes = [
+  'Delicio ipsum dolor sit amet, consectetur adipiscing elit. Nulla iveto sangalo in magna auctor mato atlântico. Fusce in metus at lacus casos bahio lacinia. Sed rito cadilaco tincidunt quam ac madonno. Patricio poeto dignissim felis, id samsungo velit rhoncus vel. Integer tubaíno arcu, valesco popozudo vitae braganço paulisto. Caldo de cano ullamcorper ante at urna chora na tora. Sed salado de fruto fermentum emicido.',
+  'Delicio ipsum dolor sit amet, consectetur adipiscing elit. Nulla iveto sangalo in magna auctor mato atlântico. Fusce in metus at lacus casos bahio lacinia. Sed rito cadilaco tincidunt quam ac madonno. Patricio poeto dignissim felis, id samsungo velit rhoncus vel.',
+  'Integer tubaíno arcu, valesco popozudo vitae braganço paulisto. Caldo de cano ullamcorper ante at urna chora na tora. Sed salado de fruto fermentum emicido. Sapopembo auctor diademo, sed biblioteco libero. Morbi caso lotérico tincidunt, arábio saudito eu interdum ludmillo.',
+  'Silos malafaio sed caganeiro. Nulla cracolândio, cnpjoto convallis aeromoço. Lady gago copocabano, ipanemo vulputate olivio palito. Seu madrugo anchieto sit amet netflixo. Tim maio metus, id porta frigideiro. Uberlândio dapibus capivaro.',
+  'In fátimo bernardo et ante, magazino luizo sed velit. Inseticido donec mosquito erat delicio. Curabitur mama penca, boca aberta et vidoca. Iphono lamparino, cadelo efficitur. Boneco ventríloquo, sed prostituto vestibulum. Quisque dipirono massa, tilápio ut prexeco.',
+  'Siririco convallis, calabreso sit amet danono. Meia calça ante, tartarugo gravida. Chupeto, vulputate eget.',
+  'Vivamus iveto sangalo tellus, a mato atlântico gravida. Fusce cases bahio nisi, non rito cadilaco bibendum. Sed madonno magna, a patricio poeto tincidunt. Samsungo ut turpis nec tubaíno ultrices.',
+  'Nullam valesco popozudo euismod, braganço paulisto in dapibus lacinia. Sed caldo de cano quis augue chora na tora. Pellentesque salado de fruto justo, at emicido libero.',
+  'Nunc sapopembo ipsum, diademo ac mattis a, a bibioteco justo. Etiam in caso lotérico nibh, quis arábio saudito justo.',
+  'Nullam in ludmillo delicio, sed silos malafaio nec ipsum. Fusce caganeiro eget ipsum, non cracolândio lacus. Suspendisse vitae cnpjoto elit, eget aeromoço justo.',
+  'Lady gago ac justo id copocabano. Ipanemo eget vulputate mauris, a olivio palito sapien. Morbi eu seu madrugo sit amet anchieto.',
+  'Sed netflixo vitae tim maio, a frigideiro elit. Sed uberlândio dapibus tortor, et capivaro ullamcorper justo.',
+  'Fátimo bernardo non nisi, in magazino luizo magna. Inseticido sed donec, sed mosquito libero.',
+  'Nunc delicio ligula, id mama penca luctus. Praesent boca aberta mauris, et vidoca eget.',
+  'Aenean pharetra iPhono dui, sed lamparino justo. Integer cadelo non odio, et boneco ventríloquo bibendum.',
+  'Nullam in prostituto metus, a dipirono elit. Fusce tilápio magna, a prexeco tincidunt.',
+  'Siririco in calabreso sit amet danono. Quisque meia calça ante, a tartarugo justo.',
+  'Chupeto sapien, vulputate eget.'
+]
